@@ -1,11 +1,5 @@
 /*------------------------------------------------------------------
 [Main Theme Styles]
-
-Project:  Cards - Personal vCard, Resume/CV & Portfolio
-Author: Diego Pereira @ DotRex
-Version:  1.0
-Last change:  25/09/15 
-Primary use:  Vcard / Personal / CV / Resume / Portfolio
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
 [Table of contents]
@@ -388,14 +382,13 @@ iframe {
 ========================================================== */
 .container {
   position: relative;
-  padding-bottom: 80px;
+  padding-bottom: 10px;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
 @media (min-width:992px) {
   .container {
-    min-height: 680px;
   }
 }
 .section-vcardbody {
